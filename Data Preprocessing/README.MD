@@ -7,6 +7,13 @@ Replace NaN values with zeros for a single column
 df['Column Name'] = df['Column Name'].fillna(0)
 ```
 
+ For an entire Dataframe  
+ 
+ ```
+ df.fillna(0)
+ ```
+ 
+ 
 Remove Duplicates from Pandas DataFrame
 
 ```
