@@ -1,4 +1,4 @@
-# Data Preprocessing Stages 
+# Data preprocessing codes using Pandas 
 
 Count NaN for entire dataframe
 
