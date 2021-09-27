@@ -4,4 +4,3 @@ z = input('Entre Your Age\t:')
 print(z)
 
 print(f'{y} is {z}')
-
