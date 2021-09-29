@@ -1,3 +1,13 @@
-# Data Analysis with Python
+# Data Analysis with Python   
+
+Credits:
+
+Cognitiveclass  
+
+```
+https://cognitiveclass.ai/
+```
+
+IBM Developer Skill Network
 
 
